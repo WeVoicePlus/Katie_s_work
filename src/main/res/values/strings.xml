@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">speech to text to speech</string>
-    <string name="SpeechText">Speech to Text</string>
-    <string name="SpeechInput">Voice Input</string>
-    <string name="GenerateSpeech">Generate Speech</string>
-    <string name="Chat">Chat</string>
-    <string name="Output">Output</string>
-    <string name="Status">Status</string>
-</resources>
